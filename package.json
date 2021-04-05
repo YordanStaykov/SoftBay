@@ -1,0 +1,20 @@
+{
+    "name": "name",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "scripts": {
+        "start": "lite-server"
+    },
+    "dependencies": {
+        "handlebars": "^4.7.6",
+        "jquery": "^3.5.1",
+        "sammy": "^0.7.6",
+        "bootstrap": "^4.3.1",
+        "popper.js": "^1.15.0"
+    },
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    }
+}
